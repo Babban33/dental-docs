@@ -1,6 +1,6 @@
 {
-    "label": "Docs",
-    "position": 2,
+    "label": "Pages",
+    "position": 3,
     "link": {
       "type": "generated-index",
       "description": "Select any file below to get familiar with code."
