@@ -1,7 +1,7 @@
 ---
 id: HomePage
 title: HomePage.jsx
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # `HomePage.jsx` Component
