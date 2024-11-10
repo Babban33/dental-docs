@@ -93,3 +93,11 @@ const toggleNameKeyboard = () => {
 - Toggle the visibility of the virtual keyboard for name, age, or village fields.
 - These functions also ensure only one keyboard is visible at a time.
 
+### `handleShift`
+```javascript
+const handleShift = () => {
+    const newLayoutName = layoutName === "default" ? "shift" : "default";
+    setLayoutName(newLayoutName);
+};
+```
+Toggles between the default and shift layouts for the virtual keyboard, changing `layoutName` accordingly.
