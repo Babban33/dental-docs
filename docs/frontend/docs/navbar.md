@@ -1,6 +1,7 @@
 ---
 id: Navbar
 title: NavBar.jsx
+sidebar_position: 2
 ---
 
 # `NavBar.jsx` Component Documentation
